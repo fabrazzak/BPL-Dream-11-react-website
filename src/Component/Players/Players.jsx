@@ -23,7 +23,7 @@ const Players = ({ choosePlayer, addPlayers, setAddPlayer  }) => {
 
      
 
-    }
+    }  
  
      
     const deletePlayerHandle = (id) => {
@@ -31,7 +31,7 @@ const Players = ({ choosePlayer, addPlayers, setAddPlayer  }) => {
         const exitPlayer = selectPlayers.filter(player => player.playerId !== id)
         setSelectPlayer(exitPlayer)
         const foundPlayer = addPlayers.filter(playerId => playerId !== id)
-        setAddPlayer(foundPlayer)
+        setAddPlayer(foundPlayer);
     
 
     }
