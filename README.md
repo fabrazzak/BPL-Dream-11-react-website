@@ -4,12 +4,12 @@
 
 
 
-### A brief description.
+## A brief description.
 
 This React-based application allows users to create a virtual cricket team by selecting players from a predefined roster. Users can manage their team's budget, view player details, and add or remove players as needed. The application incorporates a user-friendly interface, real-time updates, and error handling mechanisms to ensure a seamless experience.
 
 
-### Technologies Used:
+## Technologies Used:
 
 
 React: A JavaScript library for building user interfaces.
@@ -29,7 +29,7 @@ Tailwind CSS: A utility-first CSS framework for rapidly building custom user int
 DaisyUI: A Tailwind CSS component library for pre-built UI components.
 
 
-### 3 Key Features of the Cricket Team Manager Project:
+## 3 Key Features of the Cricket Team Manager Project:
 
 Player Selection and Management: Users can choose players from a predefined roster based on their skills, roles, and budget constraints. The application allows for easy selection, removal, and viewing of selected players.
 
