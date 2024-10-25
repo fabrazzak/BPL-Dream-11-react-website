@@ -1,0 +1,105 @@
+
+
+
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/N2sdjWF/viral-koli.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": "12000000"
+  },
+  {
+    "playerId": 2,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/3dyDcKB/Ben-Stokes.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": "15000000"
+  },
+  {
+    "playerId": 3,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/cKWrSRd/prothomalo-english-2024-06-d86ef8c2-3890-48a1-adbf-25c384f99637-Shakib.webp",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": "13000000"
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/42ZsCFF/images.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "11000000"
+  },
+  {
+    "playerId": 5,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/Hn3JQw0/TELEMMGLPICT000361322004-17296106459660-trans-Nv-BQz-QNjv4-Bqx-Rrd-ZJ7-AGE3e-K4-Wk9hw9-j9-Ts-Vd-DXcq.webp",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": "12500000"
+  },
+  {
+    "playerId": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/bFwT7zk/Untitled-design.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "14000000"
+  },
+  {
+    "playerId": 7,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/jTpsWwZ/jasprit-bumrah-bowling-vs-afghanistan-111147759.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "16000000"
+  },
+  {
+    "playerId": 8,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/ydhvhVd/383731-6.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": "13500000"
+  },
+  {
+    "playerId": 9,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/5B1gHQ5/prothomalo-english-import-media-2019-03-10-7a4e62d903a9b19836a59efbf902e959-De-cock.webp",
+    "role": "Wicketkeeper-batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": "14500000"
+  },
+  {
+    "playerId": 10,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/s5zBPb3/images-1.jpg",
+    "role": "Wicketkeeper-batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": "12000000"
+  }
+]
