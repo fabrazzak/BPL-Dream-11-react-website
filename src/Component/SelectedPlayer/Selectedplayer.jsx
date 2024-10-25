@@ -7,7 +7,7 @@ const Selectedplayer = ({ player, deletePlayerHandle }) => {
         <div className='flex justify-between mx-5 my-10 border p-5 rounded-md '>
 
             <div className='flex gap-5 content-center items-center font-semibold'>
-                <img className='w-20 ' src={player.image} alt="" />
+                <img className='w-20 h-20  rounded-full' src={player.image} alt="" />
                 <div><h2 className='text-xl font-bold'>{player.name}</h2>
                     <p>{player.battingType}</p>
                     <p>{player.bowlingType}</p>

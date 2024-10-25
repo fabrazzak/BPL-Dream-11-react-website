@@ -13,7 +13,7 @@ const Player = ({ player, choosePlayer }) => {
                     alt="player" />
             </figure>
             <div className=" p-5">
-                <h2 className="card-title pb-2 "> <img className='w-6' src={user} alt="" />{name}</h2>
+                <h2 className="card-title pb-2 "> <img className='w-6 ' src={user} alt="" />{name}</h2>
                 <div className='flex justify-between'>
                     <p className='flex gap-5'> <img className='w-5 h-5' src={vector} alt="" />{country} </p>
                     <button className='btn '>{role}</button>
